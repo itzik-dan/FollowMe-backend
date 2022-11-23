@@ -8,7 +8,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
-    "server": "nodemon backend/server",
+    "server": "nodemon backend/server"
   },
   "author": "Itzik",
   "license": "ISC",
